@@ -11,7 +11,10 @@
 - UML | C4 | likeC4 | FURPS+
 
 Contact +55 (31) 99277-3375 (Mobile)
-joao.lima@zeecode.io www.linkedin.com/in/jrvlima (LinkedIn)
+
+joao.lima@zeecode.io 
+
+www.linkedin.com/in/jrvlima (LinkedIn)
 
 ## Publications
 
@@ -19,15 +22,18 @@ joao.lima@zeecode.io www.linkedin.com/in/jrvlima (LinkedIn)
 
 ## Summary
 
-As an Automation Architect at Lemongrass, I specialize in streamlining SAP deployments across AWS, Azure, and GCP, focusing on cloud and DevOps automation. My journey in technology spans over 15 years, including experience as an independent consultant and key roles in organizations like Virtual Clarity, YML Media, and Radical Imaging. Throughout my career, I've worked on diverse projects across finance, healthcare, and e-commerce, enabling successful digital transformations and innovative cloud solutions for various clients.
+With over 20 years of experience in technology, I specialize in automating and optimizing cloud infrastructure, DevOps, and software delivery. My expertise spans cloud platforms like AWS, Azure, and GCP, where I design and implement scalable, efficient, and secure solutions tailored to business needs.
 
-My expertise lies in DevOps, infrastructure automation, and fullstack engineering. I'm passionate about implementing efficient CI/ CD pipelines, managing cloud infrastructure, and delivering reliable, scalable solutions. My Computer Science foundation and additional Software Engineering and Architecture studies empower me to tackle complex technical challenges with a structured and strategic approach.
+I help companies streamline operations, accelerate deployments, and enhance system reliability by leveraging infrastructure automation, CI/CD best practices, and cloud-native architectures. My background in fullstack engineering, distributed systems, and digital transformation enables me to bridge the gap between development and infrastructure, ensuring seamless integration and optimized performance.
 
-I'm continuously expanding my knowledge and skill set through hands-on work, certifications, and labs. Whether building a POC or advising on best practices, I thrive in environments where I can solve technical problems and drive impactful change.
+Beyond hands-on implementation, I bring a strategic mindset, continuously aligning technology with business goals to drive efficiency and innovation. Whether building a proof of concept, leading architecture discussions, or implementing automation frameworks, I thrive in solving complex challenges and delivering tangible value. My foundation in Computer Science, complemented by Software Engineering and Architecture studies, equips me to approach problems with a structured, forward-thinking methodology.
+
+I’m always learning, adapting, and pushing boundaries to create robust, future-proof solutions. Companies working with me gain a proactive problem-solver, a dedicated technologist, and a strategic partner committed to long-term success.
 
 ## Experience
 
-### Lemongrass Automation Architect March 2023 - Present (2 years)
+### Lemongrass Automation Architect
+March 2023 - Present (2 years)
 
 Automating SAP deployments in the cloud; Landing Zone automation; Azure | AWS | GCP
 
@@ -39,7 +45,8 @@ Purpose Finance through YML(YMediaLabs)
 
 Builded CI/CD pipelines for their frontend and backend micro services using GitHub Actions, Rancher, Terraform, AWS automation, fleet.io, etc.
 
-### Virtual Clarity (Acquired) 3 years 11 months
+### Virtual Clarity (Acquired)
+3 years 11 months
 
 #### DevOps and Cloud Automation Engineer
 April 2020 - February 2023 (2 years 11 months)
@@ -66,7 +73,8 @@ Main Technologies: Meteor, Polymer, Typescript, PostCSS, Webpack, DICOM, corners
 6 years 11 months
 
 #### Solution Architect / DevOps Engineer
-July 2017 - September 2018 (1 year 3 months) Belo Horizonte Area, Brazil
+July 2017 - September 2018 (1 year 3 months)
+Belo Horizonte Area, Brazil
 
 In mid-2017, I shifted my focus to DevOps, combining my experience in different roles and some architectural know-how; I was a critical contributor to DevOps practices' evaluation, documentation, presentation, coaching, and consulting in the company.
 
@@ -88,10 +96,8 @@ I worked as a full-stack consultant for the e-commerce platform of a Fortune 500
 
 Macy's: Stella and Mew 1.0, MeW 2.0
 
-### PUC Minas
-
-Assistant Teacher October 2015 - December 2016 (1 year 3 months)
-
+### PUC Minas Assistant Teacher 
+October 2015 - December 2016 (1 year 3 months)
 Belo Horizonte Area, Brazil
 
 Web Mobile Teacher
