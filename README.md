@@ -30,13 +30,13 @@ I’m always learning, adapting, and pushing boundaries to create robust, future
 
 ## Experience
 
-### Lemongrass Automation Architect \
-March 2023 - Present (2 years) \
+### Lemongrass Automation Architect\
+March 2023 - Present (2 years)\
 Fully Remote
 
 Automating SAP deployments in the cloud; Landing Zone automation; Azure | AWS | GCP
 
-### zeecode.io Independent Software Consultant \
+### zeecode.io Independent Software Consultant
 October 2018 - Present (6 years 5 months) \
 Fully Remote
 
@@ -45,11 +45,11 @@ Purpose Finance through YML(YMediaLabs)
 
 Builded CI/CD pipelines for their frontend and backend micro services using GitHub Actions, Rancher, Terraform, AWS automation, fleet.io, etc.
 
-### Virtual Clarity (Acquired) \
+### Virtual Clarity (Acquired)
 3 years 11 months \
 Fully Remote
 
-#### DevOps and Cloud Automation Engineer \
+#### DevOps and Cloud Automation Engineer
 April 2020 - February 2023 (2 years 11 months) \
 Remote
 
@@ -57,24 +57,25 @@ In the 'Portfolio Team,' I actively participate in developing and maintaining VC
 
 My role entailed handling various aspects of the technology stack, from software engineering, PAAS, FAAS, and IAAS to VCS, CI, CD, containers, container orchestration, virtual machines, cloud automation, OS image baking, configuration management, and operations.
 
-#### Delivery Consultant - DevOps and Cloud Automation Engineer \
+#### Delivery Consultant - DevOps and Cloud Automation Engineer
 April 2019 - March 2020 (1 year) \
 Fully Remote
 
 In the 'Delivery Team,' I collaborated closely with clients, offering expert consultancy and crafting innovative cloud and digital transformation solutions. I excelled in architecting, planning, and presenting cloud-based architectures and roadmaps to drive successful outcomes.
 
-### Radical Imaging LLC Consultant \
+### Radical Imaging LLC Consultant
 October 2018 - April 2019 (7 months) \
+Belo Horizonte Area, Brazil
 
 Digging into the world of computer graphics and medical imaging with Javascript.  Helping in clients and in Radical open source projects.
 
 Main Technologies: Meteor, Polymer, Typescript, PostCSS, Webpack, DICOM, cornerstone, React
 
-### Avenue Code \
+### Avenue Code
 6 years 11 months \
 Belo Horizonte Area, Brazil
 
-#### Solution Architect / DevOps Engineer \
+#### Solution Architect / DevOps Engineer
 July 2017 - September 2018 (1 year 3 months) \
 
 In mid-2017, I shifted my focus to DevOps, combining my experience in different roles and some architectural know-how; I was a critical contributor to DevOps practices' evaluation, documentation, presentation, coaching, and consulting in the company.
@@ -85,12 +86,12 @@ Sicredi: Assisted in adopting DevOps and implementing best practices and tools t
 
 Herbalife: I was a solution architect for Herbalife, drafting a roadmap for DevOps adoption that increased efficiency and operational reliability.
 
-#### Technology Manager and Mentor \
+#### Technology Manager and Mentor
 June 2015 - June 2017 (2 years 1 month)
 
 I had the opportunity to be part of the BH office management team. Later, I shifted to the mentor team to focus more on the tech side of the leadership.
 
-#### Fullstack Consultant / Nearshore Developer \
+#### Fullstack Consultant / Nearshore Developer
 November 2011 - June 2017 (5 years 8 months)
 
 I worked as a full-stack consultant for the e-commerce platform of a Fortune 500 company, conducting regular round-trip travel to the US. Technologies used, including Javascript, HTML 4/5, CSS 2/3, Git, nodejs, Hapi, Backbonejs, Requirejs, Jasmine, Handlebars, Jasmine, Spring, Java, and MoovWeb, Tritium, Sense J2SE, Maven, Oracle, Java, Server, Agile, Tests, SVN, JSP, JSTL, YUI, PL/SQL, SQL.
@@ -105,7 +106,7 @@ Web Mobile Teacher
 
 Teaching HTML, CSS and Javascript
 
-### Auge Tecnologia Sistemas Full-Stack Java Developer \
+### Auge Tecnologia Sistemas Full-Stack Java Developer
 April 2011 - December 2011 (9 months) \
 Belo Horizonte Area, Brazil
 
@@ -115,7 +116,7 @@ Main Technologies: Java, Struts, Play Framework, Debian, Ubuntu, Mercurial,
 
 Redmine, Postgres, EWController, Dojo JS
 
-### M2M Telemetria Software Developer \
+### M2M Telemetria Software Developer
 August 2010 - January 2011 (6 months) \
 Belo Horizonte Area, Brazil
 
@@ -125,13 +126,13 @@ As a Software Developer, I had an opportunity to work in Multithread(Monitor wit
 
 Main Technologies: VB.net, JEE, C++, Axis, UML, T-SQL, ESX, Microsoft Windows Server, SQL Server
 
-### Web Consult Software Developer \
+### Web Consult Software Developer
 November 2008 - July 2010 (1 year 9 months) \
 Belo Horizonte Area, Brazil
 
 In Web Consult, I worked as a Software Developer with J2SE with Swing, iReport, and MySQL applications. I had an opportunity to work with PHP and JS in Web Applications, Web Sites, and Personalised CMSs.
 
-### Synos Technologies Sysadmin \
+### Synos Technologies Sysadmin
 2004 - 2006 (2 years) \
 Belo Horizonte Area, Brazil
 
