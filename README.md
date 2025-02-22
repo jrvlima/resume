@@ -30,8 +30,8 @@ I’m always learning, adapting, and pushing boundaries to create robust, future
 
 ## Experience
 
-### Lemongrass Automation Architect\
-March 2023 - Present (2 years)\
+### Lemongrass Automation Architect
+<small>March 2023 - Present (2 years)</small>\
 Fully Remote
 
 Automating SAP deployments in the cloud; Landing Zone automation; Azure | AWS | GCP
