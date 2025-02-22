@@ -10,12 +10,15 @@
 ## Top Skills
 
 - Cloud Automation | Cloud Architect | DevOps Architect | Solution Architect 
-- Terraform | Ansible | Chef | Packer
-- AWS | Azure | GCP | K8s
-- Spring Boot | Angular.io | ExpressJS
+- Terraform | Ansible | Chef | Packer | Vagrant
+- Linux | Windows | OSX Administration and Automation
+- AWS | Azure | GCP | K8s | Istio
+- Spring Boot | Angular.io | ExpressJS | Hapi | PM2 | Webpack | Ionic | Polymer | BackboneJS | MarionetteJS | CakePHP | Ruby on Rails
+- Postgres | MongoDB | MySQL | Oracle
 - Java | Javascript | Typescript | Python | Bash  | PS1
-- Azure DevOps | TeamCity | Octopus Deploy | Github Actions | Spinnaker | Jenkins | Gitlab CI
-- UML | C4 | likeC4 | FURPS+
+- Azure DevOps | TeamCity | Octopus Deploy | Github Actions | Spinnaker | Jenkins | Gitlab CI | Fleet
+- UML | C4 | likeC4 | FURPS+ | Sparx System EA
+- N-Tier | Microservices
 
 ## Certifications
 
@@ -95,7 +98,7 @@ In the 'Delivery Team,' I collaborated closely with clients, offering expert con
 
 ### Radical Imaging LLC Consultant
 October 2018 - April 2019 (7 months) \
-Belo Horizonte Area, Brazil
+Fully Remote
 
 Digging into the world of computer graphics and medical imaging with Javascript.  Helping in clients and in Radical open source projects.
 
@@ -184,14 +187,20 @@ Site Reliability Engineering Program
 
 Graduate, Computer Science · (2006 - 2011)
 
-### Universidade Federal de Minas Gerais Extension Program, Computer Software Engineering · (2020 - 2020)
+### Universidade Federal de Minas Gerais
 
-### Pontifícia Universidade Católica de Minas Gerais Distributed Software Architecture, Computer Software Engineering · (2013 - 2014)
+Extension Program, Computer Software Engineering · (2020 - 2020)
+
+### Pontifícia Universidade Católica de Minas Gerais
+
+Distributed Software Architecture, Computer Software Engineering · (2013 - 2014)
 
 ### Universidade FUMEC
 
 Associate's degree, Telecommunications Management · (2003 - 2005)
 
-### Pontifícia Universidade Católica de Minas Gerais Software Engineering, Computer Software Engineering · (2016)
+### Pontifícia Universidade Católica de Minas Gerais
+
+Software Engineering, Computer Software Engineering · (2016)
 
 
