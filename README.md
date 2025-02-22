@@ -1,5 +1,12 @@
 # João Vinagre Lima
 
+## Contact
+
+- +55 (31) 99277-3375 (Mobile)
+- +1 415 800 4603
+- joao.lima@zeecode.io
+- www.linkedin.com/in/jrvlima (LinkedIn)
+
 ## Top Skills
 
 - Cloud Automation | Cloud Architect | DevOps Architect | Solution Architect 
@@ -10,13 +17,17 @@
 - Azure DevOps | TeamCity | Octopus Deploy | Github Actions | Spinnaker | Jenkins | Gitlab CI
 - UML | C4 | likeC4 | FURPS+
 
-Contact +55 (31) 99277-3375 (Mobile) \
-joao.lima@zeecode.io \
-www.linkedin.com/in/jrvlima (LinkedIn)
+## Certifications
+
+- Terraform Associate
+- Azure - AZ-305 Exam
+- Basic Chef Fluency - Expired
+- Local Cookbook Development - Linux Platform - Expired
+- Mule Associate Developer - Expired
 
 ## Publications
 
-- Automated Workflows
+- [Automated Workflows]()
 
 ## Summary
 
@@ -31,10 +42,29 @@ I’m always learning, adapting, and pushing boundaries to create robust, future
 ## Experience
 
 ### Lemongrass Automation Architect
-<small>March 2023 - Present (2 years)</small>
+March 2023 - Present (2 years) \
 Fully Remote
 
-Automating SAP deployments in the cloud; Landing Zone automation; Azure | AWS | GCP
+Automating SAP deployments in the cloud and Landing Zone automation on Azure | AWS | GCP
+
+Main technologies:
+
+Terraform | Python | Ansible | Bash | PowerShell | AWS | Azure | GCP | Azure DevOps
+
+Main tasks:
+
+- AWS Landing Zone - Transit Gateway and RAM Terraform
+- Azure VMSS ASR Terraform and PS1
+- Customizations of LG pipelines to fit clients toolsets
+- Documentation
+- Automation of different resources on Azure Landing Zone - Terraform
+- Automation of different resource on AWS Landing Zone - Terraform
+- Automation of different resource on GCP Landing Zone - Terraform
+- Refactor of GCP Landing Zone Automation
+- JSON Validator
+- User data automations
+- Bake of "Ansible Controler" OS with Ansible, Molecule and Packer
+- ...
 
 ### zeecode.io Independent Software Consultant
 October 2018 - Present (6 years 5 months) \
@@ -142,6 +172,14 @@ Microsoft - Oracle - Linux, Project Server, Oracle DB in Linux/Windows, Redhat 9
 
 ## Education
 
+### Interview Kickstart
+
+Applied GenAI
+
+### Interview Kickstart
+
+Site Reliability Engineering Program
+
 ### Universidade FUMEC
 
 Graduate, Computer Science · (2006 - 2011)
@@ -155,3 +193,5 @@ Graduate, Computer Science · (2006 - 2011)
 Associate's degree, Telecommunications Management · (2003 - 2005)
 
 ### Pontifícia Universidade Católica de Minas Gerais Software Engineering, Computer Software Engineering · (2016)
+
+
