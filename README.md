@@ -30,7 +30,8 @@
 
 ## Publications
 
-- [Automated Workflows]()
+- [Automated Workflows](https://github.com/zeecodeio/automated-workflow)
+- [System Modeling](https://github.com/zeecodeio/system-modeling/tree/main)
 
 ## Summary
 
@@ -58,15 +59,15 @@ Main tasks:
 
 - AWS Landing Zone - Transit Gateway and RAM Terraform
 - Azure VMSS ASR Terraform and PS1
+- Automation of Azure Backup
 - Customizations of LG pipelines to fit clients toolsets
 - Documentation
-- Automation of different resources on Azure Landing Zone - Terraform
-- Automation of different resource on AWS Landing Zone - Terraform
-- Automation of different resource on GCP Landing Zone - Terraform
+- Automation of AWS, Azure and GCP Landing Zone - Terraform
 - Refactor of GCP Landing Zone Automation
 - JSON Validator
-- User data automations
+- User data automation
 - Bake of "Ansible Controler" OS with Ansible, Molecule and Packer
+- Support
 - ...
 
 ### zeecode.io Independent Software Consultant
